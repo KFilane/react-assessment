@@ -26,5 +26,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "repository": "https://github.com/KFilane/react-assessment.git",
+  "author": "KFilane <kamohelo2408@gmail.com>",
+  "license": "MIT"
 }
